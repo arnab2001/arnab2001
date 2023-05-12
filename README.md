@@ -13,19 +13,16 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play guitar :p
 
-**Contributions ✈️**
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnab2001&" alt="arnab2001" /></p>
-
-<br/>
-
 **Heres Some Stats** <br/>
-![Arnab's github stats](https://github-readme-stats.vercel.app/api?username=arnab2001&show_icons=true&theme=merko)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnab2001&" alt="arnab2001" />
 
-<br/>
+![Arnab's github stats](https://github-readme-stats.vercel.app/api?username=arnab2001&show_icons=true&theme=merko) </p>
 
 **Top Langs:** <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnab2001&hide=ruby,less)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 **Latest Blogs** <br/>
 ![Blogs](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://arnab2001.hashnode.dev/demystifying-api-architectures-a-comprehensive-guide&large=true&theme=dark)
+![Blogs](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://arnab2001.hashnode.dev/the-t3-stack&large=true&theme=dark)
+![Blogs](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://arnab2001.hashnode.dev/what-the-heck-is-proof-of-history&large=true&theme=dark)
 
