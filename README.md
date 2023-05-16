@@ -7,7 +7,7 @@
 
 <p align="center">I'm a CSE student and aspiring developer.<br/>I love Web-Development and Blockchain.<br> I also love Open Source,taking part in Hackathons,  writing Tech-blogs, Educating people etc.<br></p><br/>
 
-<p align = "center"><a href="https://www.buymeacoffee.com/arna2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
+<p align = "center"><a href="https://www.buymeacoffee.com/arna2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="arna2001" /></a></p><br><br>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
@@ -24,6 +24,8 @@
 <p align = "center">
  
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://vercel.com/arnab2001/portfoliosite)
+ 
+ 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/030arnab) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arnab-chatterjee-9a0253187/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arnab.chatterjee.0/)
@@ -37,6 +39,8 @@
 <br>
 
 <p align = "center">
+ <img src = "https://stats.quine.sh/arnab2001/github?theme=dark">
+ 
   <img src = "https://github-readme-stats.vercel.app/api?username=arnab2001&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=arnab2001&">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arnab2001&hide=ruby,less">
