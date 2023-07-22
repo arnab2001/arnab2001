@@ -57,9 +57,9 @@
   </summery>
 
 ### Blogs <br/>
-![Blogs](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://arnab2001.hashnode.dev/demystifying-api-architectures-a-comprehensive-guide&large=true&theme=dark)
-![Blogs](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://arnab2001.hashnode.dev/the-t3-stack&large=true&theme=dark)
-![Blogs](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://arnab2001.hashnode.dev/what-the-heck-is-proof-of-history&large=true&theme=dark)
+![Blogs](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://arnab2001.hashnode.dev/demystifying-api-architectures-a-comprehensive-guide&medium=true&theme=dark)
+![Blogs](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://arnab2001.hashnode.dev/the-t3-stack&medium=true&theme=dark)
+![Blogs](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://arnab2001.hashnode.dev/what-the-heck-is-proof-of-history&medium=true&theme=dark)
 
 
  <!-- 
