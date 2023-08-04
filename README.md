@@ -71,3 +71,6 @@
 <!--   ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+Stats for my work account :) @arnabchatterjee2001
+[![GitHub Streak](https://streak-stats.demolab.com?user=arnabchatterjee2001&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
