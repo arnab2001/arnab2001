@@ -72,21 +72,17 @@
   </summery>
 
 ### Blogs <br/>
-![Blogs](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://arnab2001.hashnode.dev/demystifying-api-architectures-a-comprehensive-guide&medium=true&theme=dark)
-![Blogs](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://arnab2001.hashnode.dev/the-t3-stack&medium=true&theme=dark)
-![Blogs](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://arnab2001.hashnode.dev/what-the-heck-is-proof-of-history&medium=true&theme=dark)
-
-
- <!-- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="/https://arnab2001.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://arnab2001.hashnode.dev/" height="30" width="40" /></a>
-</p> -->
-  
-<!--   ### Blogs posts
 <!-- BLOGPOSTS:START -->
  - 🔥 [Stop Juggling Dependencies: Let Nestjs and TypeScript Inject Some Order](https://arnab2001.hashnode.dev/stop-juggling-dependencies-let-nestjs-and-typescript-inject-some-order)
  - 🌮 [Beyond Request-Response: Understanding the Principles and Benefits of EDA](https://arnab2001.hashnode.dev/beyond-request-response-understanding-the-principles-and-benefits-of-eda)
  - 💯 [Building Real-Time Chat Functionality with Socket.IO in Node.js](https://arnab2001.hashnode.dev/building-real-time-chat-functionality-with-socketio-in-nodejs)
  - 🌮 [Supercharge Your Node.js Express App with gRPC](https://arnab2001.hashnode.dev/supercharge-your-nodejs-express-app-with-grpc)
  - 🔥 [Terraform: A Beginner&#39;s Guide to Infrastructure as Code &lpar;IaC&rpar;](https://arnab2001.hashnode.dev/terraform-a-beginners-guide-to-infrastructure-as-code-iac)<!-- BLOGPOSTS:END -->
+
+ <!-- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="/https://arnab2001.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://arnab2001.hashnode.dev/" height="30" width="40" /></a>
+</p> -->
+
+
