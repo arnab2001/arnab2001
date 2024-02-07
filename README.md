@@ -39,21 +39,30 @@
 
 <br>
 
-<p align = "center">
- <img src = "https://stats.quine.sh/arnab2001/github?theme=dark">
- 
-  <img src = "https://github-readme-stats.vercel.app/api?username=arnab2001&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
- 
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arnab2001&hide=ruby,less">
-
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=arnab2001&">
+<p align="center">
+  <img src="https://stats.quine.sh/arnab2001/github?theme=dark">
   
-### Stats for my work account :) @arnabchatterjee2001
-[ ![GitHub Streak](https://streak-stats.demolab.com?user=arnabchatterjee2001&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
-  
-  
-<br/>
 </p>
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab2001&hide=ruby,less">
+</p>
+
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=arnab2001&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab2001&">
+
+</p>
+ Stats for my work account :) @arnabchatterjee2001
+<p align="center">
+
+ <img src="https://streak-stats.demolab.com?user=arnabchatterjee2001&theme=dark&exclude_days=Sun">
+</p>
+
+<br/>
+
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
                 width="28" />
@@ -77,6 +86,3 @@
 <!--   ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-Stats for my work account :) @arnabchatterjee2001
-[![GitHub Streak](https://streak-stats.demolab.com?user=arnabchatterjee2001&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
