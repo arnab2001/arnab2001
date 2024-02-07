@@ -1,0 +1,16 @@
+            - name: Hashnode Blog Action
+  # You may pin to the exact commit or the version.
+  # uses: Sachin-chaurasiya/hashnode-blog-action@45dd521d04240128977046039779c5734425160c
+  uses: Sachin-chaurasiya/hashnode-blog-action@v0.0.7
+  with:
+    # Your hashnode publication name, Example: blog.hashnode.dev
+    HASHNODE_PUBLICATION_NAME: arnab2001.hashnode.dev
+    # Number of posts count
+    POST_COUNT: # optional, default is 6
+    # Output format (table, list, card)
+    FORMAT: card
+    # File name to save the output
+    FILE: # optional, default is README.md
+    # Debug mode
+    DEBUG: # optional
+          
