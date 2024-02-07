@@ -29,6 +29,7 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/030arnab) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arnab-chatterjee-9a0253187/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arnab.chatterjee.0/)
+
 ![Visitors](https://api.visitorbadge.io/api/combined?path=arnab2001&label=visitors&countColor=%23263759&style=flat-square)
 
 </p>
@@ -42,8 +43,13 @@
  <img src = "https://stats.quine.sh/arnab2001/github?theme=dark">
  
   <img src = "https://github-readme-stats.vercel.app/api?username=arnab2001&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=arnab2001&">
+ 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arnab2001&hide=ruby,less">
+
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=arnab2001&">
+  
+### Stats for my work account :) @arnabchatterjee2001
+[ ![GitHub Streak](https://streak-stats.demolab.com?user=arnabchatterjee2001&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
   
   
 <br/>
