@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: '@arnab2001' # Hashnode Username
+          USERNAME: 'arnab2001' # Hashnode Username
           BLOG_URL: 'https://arnab2001.hashnode.dev/' # Blog URL
           COUNT: 10 # MAX Visisble
         env:
