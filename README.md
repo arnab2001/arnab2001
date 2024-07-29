@@ -73,11 +73,11 @@
 
 ### Blogs <br/>
 <!-- BLOGPOSTS:START -->
- - 🔥 [Stop Juggling Dependencies: Let Nestjs and TypeScript Inject Some Order](https://arnab2001.hashnode.dev/stop-juggling-dependencies-let-nestjs-and-typescript-inject-some-order)
- - 🌮 [Beyond Request-Response: Understanding the Principles and Benefits of EDA](https://arnab2001.hashnode.dev/beyond-request-response-understanding-the-principles-and-benefits-of-eda)
- - 💯 [Building Real-Time Chat Functionality with Socket.IO in Node.js](https://arnab2001.hashnode.dev/building-real-time-chat-functionality-with-socketio-in-nodejs)
- - 🌮 [Supercharge Your Node.js Express App with gRPC](https://arnab2001.hashnode.dev/supercharge-your-nodejs-express-app-with-grpc)
- - 🔥 [Terraform: A Beginner&#39;s Guide to Infrastructure as Code &lpar;IaC&rpar;](https://arnab2001.hashnode.dev/terraform-a-beginners-guide-to-infrastructure-as-code-iac)<!-- BLOGPOSTS:END -->
+ - 🔥 [CodeCompass.AI:  Empower Your Team with Instant Project Insights](https://arnab2001.hashnode.dev/codecompassai-empower-your-team-with-instant-project-insights)
+ - 🌮 [Stop Juggling Dependencies: Let Nestjs and TypeScript Inject Some Order](https://arnab2001.hashnode.dev/stop-juggling-dependencies-let-nestjs-and-typescript-inject-some-order)
+ - 💯 [Beyond Request-Response: Understanding the Principles and Benefits of EDA](https://arnab2001.hashnode.dev/beyond-request-response-understanding-the-principles-and-benefits-of-eda)
+ - 🌮 [Building Real-Time Chat Functionality with Socket.IO in Node.js](https://arnab2001.hashnode.dev/building-real-time-chat-functionality-with-socketio-in-nodejs)
+ - 🔥 [Supercharge Your Node.js Express App with gRPC](https://arnab2001.hashnode.dev/supercharge-your-nodejs-express-app-with-grpc)<!-- BLOGPOSTS:END -->
 
  <!-- 
 <h3 align="left">Connect with me:</h3>
