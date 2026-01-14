@@ -12,10 +12,10 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
-- 🔭 I'm working on **Socialite** and **Coinverse**.
-- 🌱 I’m currently learning **Microservices**.
-- 👯 I’m looking to collaborate on Web and Blockchain Projects.
-- 🤔 I’m looking for help with issues on coinverse.
+- 🔭 I'm working on **OptiSchema** and **Boxy**.
+- 🌱 I’m currently learning **K8s**.
+- 👯 I’m looking to collaborate on Intresting Server Side Projects.
+- 🤔 I’m looking for help with issues on Optischema Slim.
 - 💬 Ask me about Web Development, Blockchain or Any tech-related stuff.
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
