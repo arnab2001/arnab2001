@@ -5,7 +5,7 @@
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
 
-<p align="center">I'm a CSE student and aspiring developer.<br/>I love Engineering<br> I also love Open Source,taking part in Hackathons, writing Tech-blogs, Educating people etc.<br></p><br/>
+<p align="center">I'm a Backend / Cloud / Platform Engineer .<br/>I love Engineering<br> I also love Open Source,taking part in Hackathons, writing Tech-blogs, Educating people etc.<br></p><br/>
 
 <p align = "center"><a href="https://www.buymeacoffee.com/arna2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="arna2001" /></a></p><br><br>
 
