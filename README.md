@@ -4,7 +4,7 @@ platform engineer who likes building stuff with containers, databases, and cloud
 
 I love engineering, open source, hackathons, and sharing knowledge through technical writing.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-teal?style=flat-square)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-teal?style=flat-square)]([https://your-portfolio-url.com](https://portfoliosite-beta.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arnab-chatterjee-9a0253187/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/030arnab)
 [![Hashnode](https://img.shields.io/badge/Hashnode-Read-2962FF?style=flat-square&logo=hashnode)](https://arnab2001.hashnode.dev/)
